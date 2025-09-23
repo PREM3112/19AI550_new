@@ -1,6 +1,6 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 22.09.25                                                                        
+### REGISTER NUMBER : 212223240124
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
@@ -80,6 +80,9 @@ float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDista
 transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
+<img width="1135" height="614" alt="Screenshot 2025-09-23 141016" src="https://github.com/user-attachments/assets/9e7886de-7eca-43c6-aef8-ae3e1d6c65b6" />
+<img width="1136" height="611" alt="Screenshot 2025-09-23 141029" src="https://github.com/user-attachments/assets/4e649cfe-034d-4f83-9605-fee37d83aa4c" />
+<img width="1135" height="581" alt="Screenshot 2025-09-23 141043" src="https://github.com/user-attachments/assets/7168a325-31b0-4525-812e-8e3505b8a8a2" />
 
 
 
