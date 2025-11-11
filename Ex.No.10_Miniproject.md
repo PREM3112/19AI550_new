@@ -1,7 +1,7 @@
 ## Ex.No: 10 — Implementation of 2D Game in Unity
 
-Date:
-Register Number:
+## Date: 11/11/2025
+## Register Number: 212223240124
 
 ## AIM:
 
